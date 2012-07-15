@@ -1,0 +1,1 @@
+.\python27\python.exe pang.py

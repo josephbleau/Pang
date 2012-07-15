@@ -1,0 +1,9 @@
+A version of Pang written in Python using Pygame
+Joseph Bleau
+http://www.josephbleau.com
+
+You must have Python 2.7 and PyGame installed if you wish to run this from source. 
+
+You can download PyGame here: http://www.pygame.org/download.shtml
+
+For a self-extracting / running binary of Pang, download here: http://www.josephbleau.com/pang.exe
